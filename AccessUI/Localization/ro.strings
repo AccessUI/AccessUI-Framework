@@ -1,0 +1,71 @@
+/* Etiqueta de accesibilidad pentru un buton */
+"Button" = "Buton";
+
+/* Etiqueta de accesibilidad pentru un câmp de text */
+"Enter your name" = "Introduceți numele dvs.";
+
+/* Etiqueta de accesibilidad pentru un comutator */
+"Enable notifications" = "Activați notificările";
+
+/* Titlul unei liste */
+"List layout" = "Design de listă";
+
+/* Text pentru o bară de progres */
+"Loading" = "Încărcare";
+
+/* Etiqueta de accesibilidad pentru un control glisant */
+"Adjust volume" = "Reglați volumul";
+
+/* Etiqueta de accesibilidad pentru un control de pas */
+"Adjust step" = "Reglați pasul";
+
+/* Etiqueta de accesibilidad pentru un comutator */
+"Enable" = "Activați";
+
+/* Etiqueta de accesibilidad pentru un control segmentat */
+"Select option" = "Selectați opțiunea";
+
+/* Text pentru un meniu */
+"Menu" = "Meniu";
+
+/* Text pentru o opțiune de setări */
+"Settings" = "Setări";
+
+/* Text care se arată într-un formular */
+"Submit" = "Trimite";
+
+/* Text care se arată într-un mesaj de eroare */
+"Error occurred" = "A apărut o eroare";
+
+/* Text pentru o etichetă */
+"Label" = "Etichetă";
+
+/* Etiqueta de accesibilidad pentru un câmp de căutare */
+"Search" = "Caută";
+
+/* Etiqueta de accesibilidad pentru o grilă */
+"Grid layout" = "Design de grilă";
+
+/* Etiqueta de accesibilidad pentru un design de stivare verticală */
+"Vertical stack layout" = "Design de stivare verticală";
+
+/* Etiqueta de accesibilidad pentru un design de stivare orizontală */
+"Horizontal stack layout" = "Design de stivare orizontală";
+
+/* Etiqueta de accesibilidad pentru un design de stivare în profunzime */
+"Depth stack layout" = "Design de stivare în profunzime";
+
+/* Etiqueta de accesibilidad pentru un design de formular */
+"Form layout" = "Design de formular";
+
+/* Etiqueta de accesibilidad pentru o grilă verticală leneșă */
+"Lazy vertical grid layout" = "Design de grilă verticală leneșă";
+
+/* Etiqueta de accesibilidad pentru o grilă orizontală leneșă */
+"Lazy horizontal grid layout" = "Design de grilă orizontală leneșă";
+
+/* Etiqueta de accesibilidad pentru o listă */
+"List layout" = "Design de listă";
+
+/* Etiqueta de accesibilidad pentru o vedere de derulare */
+"ScrollView layout" = "Design de vizualizare cu derulare";

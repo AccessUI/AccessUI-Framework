@@ -1,0 +1,71 @@
+/* Etiqueta de accesibilidad para un botón */
+"Button" = "Botão";
+
+/* Etiqueta de accesibilidad para un campo de texto */
+"Enter your name" = "Digite seu nome";
+
+/* Etiqueta de accesibilidad para un interruptor */
+"Enable notifications" = "Ativar notificações";
+
+/* Título de una lista */
+"List layout" = "Layout de lista";
+
+/* Texto para una barra de progreso */
+"Loading" = "Carregando";
+
+/* Etiqueta de accesibilidad para um controle deslizante */
+"Adjust volume" = "Ajustar volume";
+
+/* Etiqueta de accesibilidad para um controle de passo */
+"Adjust step" = "Ajustar passo";
+
+/* Etiqueta de accesibilidad para um conmutador */
+"Enable" = "Ativar";
+
+/* Etiqueta de accesibilidad para um controle segmentado */
+"Select option" = "Selecionar opção";
+
+/* Texto para um menu */
+"Menu" = "Menu";
+
+/* Texto para uma opção de configuração */
+"Settings" = "Configurações";
+
+/* Texto que se mostra em um formulário */
+"Submit" = "Enviar";
+
+/* Texto que se mostra em uma mensagem de erro */
+"Error occurred" = "Ocorreu um erro";
+
+/* Texto para uma etiqueta */
+"Label" = "Etiqueta";
+
+/* Etiqueta de accesibilidad para um campo de pesquisa */
+"Search" = "Buscar";
+
+/* Etiqueta de accesibilidad para uma grade */
+"Grid layout" = "Layout de grade";
+
+/* Etiqueta de accesibilidad para um design de pilha vertical */
+"Vertical stack layout" = "Layout de pilha vertical";
+
+/* Etiqueta de accesibilidad para um design de pilha horizontal */
+"Horizontal stack layout" = "Layout de pilha horizontal";
+
+/* Etiqueta de accesibilidad para um design de pilha de profundidade */
+"Depth stack layout" = "Layout de pilha de profundidade";
+
+/* Etiqueta de accesibilidad para um design de formulário */
+"Form layout" = "Layout de formulário";
+
+/* Etiqueta de accesibilidad para uma grade vertical preguiçosa */
+"Lazy vertical grid layout" = "Layout de grade vertical preguiçosa";
+
+/* Etiqueta de accesibilidad para uma grade horizontal preguiçosa */
+"Lazy horizontal grid layout" = "Layout de grade horizontal preguiçosa";
+
+/* Etiqueta de accesibilidad para uma lista */
+"List layout" = "Layout de lista";
+
+/* Etiqueta de accesibilidad para uma vista de rolagem */
+"ScrollView layout" = "Layout de visão com rolagem";

@@ -1,0 +1,71 @@
+/* Etiqueta de accessibilitat per un boton */
+"Button" = "Boton";
+
+/* Etiqueta de accessibilitat per un camp de tèxt */
+"Enter your name" = "Indica lo ton nom";
+
+/* Etiqueta de accessibilitat per un interruptor */
+"Enable notifications" = "Activar las notificacions";
+
+/* Títol d'una lista */
+"List layout" = "Disposicion de lista";
+
+/* Tèxt per una barra de progrès */
+"Loading" = "Cargament";
+
+/* Etiqueta de accessibilitat per un contraròtle glissant */
+"Adjust volume" = "Ajustar lo volum";
+
+/* Etiqueta de accessibilitat per un contraròtle de passa */
+"Adjust step" = "Ajustar lo pas";
+
+/* Etiqueta de accessibilitat per un comutador */
+"Enable" = "Activar";
+
+/* Etiqueta de accessibilitat per un contraròtle segmentat */
+"Select option" = "Seleccionar l'opcion";
+
+/* Tèxt per un menut */
+"Menu" = "Menut";
+
+/* Tèxt per una opcion de configuracion */
+"Settings" = "Configuracion";
+
+/* Tèxt qu'apareis dins un formulari */
+"Submit" = "Enviar";
+
+/* Tèxt qu'apareis dins un messatge d'error */
+"Error occurred" = "Se produsiguèt un error";
+
+/* Tèxt per una etiqueta */
+"Label" = "Etiqueta";
+
+/* Etiqueta de accessibilitat per un camp de recèrca */
+"Search" = "Cercar";
+
+/* Etiqueta de accessibilitat per una grilha */
+"Grid layout" = "Disposicion de grilha";
+
+/* Etiqueta de accessibilitat per un desenas vertical apilat */
+"Vertical stack layout" = "Disposicion vertical apilada";
+
+/* Etiqueta de accessibilitat per un desenas orizontal apilat */
+"Horizontal stack layout" = "Disposicion orizontal apilada";
+
+/* Etiqueta de accessibilitat per un desenas de prigondor */
+"Depth stack layout" = "Disposicion de prigondor";
+
+/* Etiqueta de accessibilitat per un desenas de formulari */
+"Form layout" = "Disposicion de formulari";
+
+/* Etiqueta de accessibilitat per una grilha vertical peresosa */
+"Lazy vertical grid layout" = "Disposicion de grilha vertical peresosa";
+
+/* Etiqueta de accessibilitat per una grilha orizontala peresosa */
+"Lazy horizontal grid layout" = "Disposicion de grilha orizontala peresosa";
+
+/* Etiqueta de accessibilitat per una lista */
+"List layout" = "Disposicion de lista";
+
+/* Etiqueta de accessibilitat per una vista de desplaçament */
+"ScrollView layout" = "Disposicion de vista de desplaçament";

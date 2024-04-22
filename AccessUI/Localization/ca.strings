@@ -1,0 +1,71 @@
+/* Etiqueta de accesibilidad para un botón */
+"Button" = "Botó";
+
+/* Etiqueta de accesibilidad para un campo de texto */
+"Enter your name" = "Introdueix el teu nom";
+
+/* Etiqueta de accesibilidad para un interruptor */
+"Enable notifications" = "Activa notificacions";
+
+/* Título de una lista */
+"List layout" = "Disseny de llista";
+
+/* Texto para una barra de progreso */
+"Loading" = "Carregant";
+
+/* Etiqueta de accesibilidad para un control deslizante */
+"Adjust volume" = "Ajusta el volum";
+
+/* Etiqueta de accesibilidad para un control de paso */
+"Adjust step" = "Ajusta el pas";
+
+/* Etiqueta de accesibilidad para un conmutador */
+"Enable" = "Activa";
+
+/* Etiqueta de accesibilidad para un control segmentado */
+"Select option" = "Selecciona opció";
+
+/* Texto para un menú */
+"Menu" = "Menú";
+
+/* Texto para una opción de configuración */
+"Settings" = "Configuració";
+
+/* Texto que se muestra en un formulario */
+"Submit" = "Envia";
+
+/* Texto que se muestra en un mensaje de error */
+"Error occurred" = "S'ha produït un error";
+
+/* Texto para una etiqueta */
+"Label" = "Etiqueta";
+
+/* Etiqueta de accesibilidad para un campo de búsqueda */
+"Search" = "Cerca";
+
+/* Etiqueta de accesibilidad para una cuadrícula */
+"Grid layout" = "Disseny de quadrícula";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento vertical */
+"Vertical stack layout" = "Disseny de pila vertical";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento horizontal */
+"Horizontal stack layout" = "Disseny de pila horitzontal";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento en profundidad */
+"Depth stack layout" = "Disseny de pila de profunditat";
+
+/* Etiqueta de accesibilidad para un diseño de formulario */
+"Form layout" = "Disseny de formulari";
+
+/* Etiqueta de accesibilidad para una cuadrícula vertical perezosa */
+"Lazy vertical grid layout" = "Disseny de quadrícula vertical paresseuse";
+
+/* Etiqueta de accesibilidad para una cuadrícula horizontal perezosa */
+"Lazy horizontal grid layout" = "Disseny de quadrícula horitzontal paresseuse";
+
+/* Etiqueta de accesibilidad para una lista */
+"List layout" = "Disseny de llista";
+
+/* Etiqueta de accesibilidad para una vista de desplazamiento */
+"ScrollView layout" = "Disseny de vista amb desplaçament";

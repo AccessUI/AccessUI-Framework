@@ -1,0 +1,71 @@
+/* Etiqueta de accesibilidad para un botón */
+"Button" = "Bouton";
+
+/* Etiqueta de accesibilidad para un campo de texto */
+"Enter your name" = "Entrez votre nom";
+
+/* Etiqueta de accesibilidad para un interruptor */
+"Enable notifications" = "Activer les notifications";
+
+/* Título de una lista */
+"List layout" = "Disposition de la liste";
+
+/* Texto para una barra de progreso */
+"Loading" = "Chargement";
+
+/* Etiqueta de accesibilidad para un control deslizante */
+"Adjust volume" = "Ajuster le volume";
+
+/* Etiqueta de accesibilidad para un control de paso */
+"Adjust step" = "Ajuster le pas";
+
+/* Etiqueta de accesibilidad para un conmutador */
+"Enable" = "Activer";
+
+/* Etiqueta de accesibilidad para un control segmentado */
+"Select option" = "Sélectionner l'option";
+
+/* Texto para un menú */
+"Menu" = "Menu";
+
+/* Texto para una opción de configuration */
+"Settings" = "Réglages";
+
+/* Texto que se muestra en un formulario */
+"Submit" = "Soumettre";
+
+/* Texto que se muestra en un mensaje de error */
+"Error occurred" = "Une erreur s'est produite";
+
+/* Texto para una etiqueta */
+"Label" = "Étiquette";
+
+/* Etiqueta de accesibilidad para un campo de búsqueda */
+"Search" = "Rechercher";
+
+/* Etiqueta de accesibilidad para una cuadrícula */
+"Grid layout" = "Disposition de la grille";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento vertical */
+"Vertical stack layout" = "Disposition verticale";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento horizontal */
+"Horizontal stack layout" = "Disposition horizontale";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento en profundidad */
+"Depth stack layout" = "Disposition en profondeur";
+
+/* Etiqueta de accesibilidad para un diseño de formulario */
+"Form layout" = "Disposition de formulaire";
+
+/* Etiqueta de accesibilidad para una cuadrícula vertical perezosa */
+"Lazy vertical grid layout" = "Disposition verticale paresseuse";
+
+/* Etiqueta de accesibilidad para una cuadrícula horizontal perezosa */
+"Lazy horizontal grid layout" = "Disposition horizontale paresseuse";
+
+/* Etiqueta de accesibilidad para una lista */
+"List layout" = "Disposition de la liste";
+
+/* Etiqueta de accesibilidad para una vista de desplazamiento */
+"ScrollView layout" = "Disposition de la vue de défilement";

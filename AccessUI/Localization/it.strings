@@ -1,0 +1,71 @@
+/* Etiqueta de accesibilidad para un botón */
+"Button" = "Pulsante";
+
+/* Etiqueta de accesibilidad para un campo de texto */
+"Enter your name" = "Inserisci il tuo nome";
+
+/* Etiqueta de accesibilidad para un interruptor */
+"Enable notifications" = "Attiva notifiche";
+
+/* Título de una lista */
+"List layout" = "Impostazione lista";
+
+/* Texto para una barra de progreso */
+"Loading" = "Caricamento";
+
+/* Etiqueta de accesibilidad para un control deslizante */
+"Adjust volume" = "Regola volume";
+
+/* Etiqueta de accesibilidad para un control de paso */
+"Adjust step" = "Regola passo";
+
+/* Etiqueta de accesibilidad para un conmutador */
+"Enable" = "Attiva";
+
+/* Etiqueta de accesibilidad para un control segmentado */
+"Select option" = "Seleziona opzione";
+
+/* Texto para un menú */
+"Menu" = "Menu";
+
+/* Texto para una opción de configuración */
+"Settings" = "Impostazioni";
+
+/* Texto que se muestra en un formulario */
+"Submit" = "Invia";
+
+/* Texto que se muestra en un mensaje de error */
+"Error occurred" = "Si è verificato un errore";
+
+/* Texto para una etiqueta */
+"Label" = "Etichetta";
+
+/* Etiqueta de accesibilidad para un campo de búsqueda */
+"Search" = "Cerca";
+
+/* Etiqueta de accesibilidad para una cuadrícula */
+"Grid layout" = "Impostazione griglia";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento vertical */
+"Vertical stack layout" = "Impostazione verticale";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento horizontal */
+"Horizontal stack layout" = "Impostazione orizzontale";
+
+/* Etiqueta de accesibilidad para un diseño de apilamiento en profundidad */
+"Depth stack layout" = "Impostazione di profondità";
+
+/* Etiqueta de accesibilidad para un diseño de formulario */
+"Form layout" = "Impostazione modulo";
+
+/* Etiqueta de accesibilidad para una cuadrícula vertical perezosa */
+"Lazy vertical grid layout" = "Impostazione griglia verticale paresseuse";
+
+/* Etiqueta de accesibilidad para una cuadrícula horizontal perezosa */
+"Lazy horizontal grid layout" = "Impostazione griglia orizzontale paresseuse";
+
+/* Etiqueta de accesibilidad para una lista */
+"List layout" = "Impostazione lista";
+
+/* Etiqueta de accesibilidad para una vista de desplazamiento */
+"ScrollView layout" = "Impostazione vista di scorrimento";
