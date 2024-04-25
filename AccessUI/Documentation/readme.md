@@ -7,11 +7,6 @@ AccessUI es un framework de SwiftUI que facilita la creación de interfaces de u
 - [Requisitos](#requisitos)
 - [Estructura de carpetas](#estructura-de-carpetas)
 - [Pruebas](#pruebas)
-- [Automatización y scripts](#automatización-y-scripts)
-- [Control de versiones y dependencias](#control-de-versiones-y-dependencias)
-- [Prácticas recomendadas](#prácticas-recomendadas)
-- [Contribuciones](#contribuciones)
-- [Licencia](#licencia)
 
 ## Requisitos
 
@@ -120,7 +115,7 @@ Tests/
 ┃   ┗ 📄 PerformanceTestCases.swift
 ┗ 📄 TestConfiguration.swift      # Configuración global para pruebas (por ejemplo, inyectar dependencias)
 
-UnitTests:
+## Pruebas
 Components: Pruebas unitarias para los componentes de la aplicación, agrupados por tipo (botones, campos de texto, etc.).
 Layouts: Pruebas unitarias para los diseños, como VStack, HStack y GridLayout.
 Navigation: Pruebas unitarias para los componentes de navegación, como AccessibleModal, TabView, etc.
