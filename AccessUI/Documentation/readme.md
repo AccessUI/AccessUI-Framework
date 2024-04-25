@@ -114,7 +114,7 @@ Tests/
 ┣ 📂 PerformanceTests/            # Pruebas de rendimiento
 ┃   ┗ 📄 PerformanceTestCases.swift
 ┗ 📄 TestConfiguration.swift      # Configuración global para pruebas (por ejemplo, inyectar dependencias)
-
+```
 ## Pruebas
 Components: Pruebas unitarias para los componentes de la aplicación, agrupados por tipo (botones, campos de texto, etc.).
 Layouts: Pruebas unitarias para los diseños, como VStack, HStack y GridLayout.
